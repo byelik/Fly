@@ -1,0 +1,26 @@
+#This is the git ignore file if you want to use the free Unity 
+# the ! negates an ignore, so you ignore everything in Library then
+#un-ignore the metadata folder and those specific files
+#use at your own risk.
+
+#NOTE: this will cause your collaborators to re-import assets
+# (previews and cache), but it seems to have no value to keep in source control
+
+#Unity noise
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+*.csproj
+*.pidb
+*.userprefs
+*.sln
+*.unityproj
+build/
+
+#XCode noise
+*.pbxuser
+xcuserdata
+Assembly-UnityScript.dll
+#Assembly-UnityScript.dll.s
+mscorlib.dll.s
+*.log
