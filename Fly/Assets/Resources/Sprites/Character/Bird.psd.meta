@@ -1,6 +1,16 @@
 fileFormatVersion: 2
 guid: 0a5fe150c7f6d4fca906baea072838be
 TextureImporter:
+  fileIDToRecycleName:
+    21300000: Birds_0
+    21300002: Birds_1
+    21300004: Birds_2
+    21300006: Birds_3
+    21300008: Birds_4
+    21300010: Birds_5
+    21300012: Birds_6
+    21300014: Birds_7
+    21300016: Birds_8
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0

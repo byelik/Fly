@@ -69,7 +69,7 @@ class CharacterControll extends MonoBehaviour
     function Update()
     {
         angle = Mathf.LerpAngle(minAngle, maxAngle, Time.time);
-        print(angle);
+//        print(angle);
     }
 	
 	private function rotateCharacter()
